@@ -1,16 +1,13 @@
 # Thinkpad T450s Catalina
 ## 简介 Introduction
 - 这是一个完整的Thinkpad T450s macOS Catalina配置 （基于 @jsassu20 的T450配置）
-  This is a complete Thinkpad T450s macOS Catalina configuration (T450 configuration based on @ jsassu20)
+This is a complete Thinkpad T450s macOS Catalina configuration (T450 configuration based on @ jsassu20)
 - 由于T450s只有一条内存插槽（使用8GB以上内存时板载内存识别不正常）您需要注入内存信息
-  Since the T450s has only one memory slot (the onboard memory is not recognized properly when using more than 8GB of memory) 
-  you need to inject memory information
+Since the T450s has only one memory slot (the onboard memory is not recognized properly when using more than 8GB of memory) you need to inject memory information
 - 使用DW1820A时只需将驱动复制到kext 安装系统时无需在BIOS中禁用WIFI
-  When using DW1820A, you only need to copy the driver to kext. You do not need to disable WIFI in the BIOS when installing
-  the system.
+When using DW1820A, you only need to copy the driver to kext. You do not need to disable WIFI in the BIOS when installing the system.
 - 音频问题请执行alc_fix脚本 或者把CodecCommander.kext复制到 L / E 目录重建缓存修复权限
-  Audio issue, please execute alc_fix script or copy CodecCommander.kext to L / E directory to rebuild cache repair
-  permissions
+Audio issue, please execute alc_fix script or copy CodecCommander.kext to L / E directory to rebuild cache repair permissions
 
 ## 硬件信息 Device Information
 
