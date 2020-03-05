@@ -16,9 +16,9 @@ Audio issue, please execute alc_fix script or copy CodecCommander.kext to L / E 
 
 - Intel HD 5500 Graphics 
 
-- 声卡：ALC292 or HD Audio, Realtek ALC3232 codec
+- ALC292 or HD Audio, Realtek ALC3232 codec
 
-- 无线网卡：DW1820A CN-08PKF4 CN-0VW3T3 CN-00JT494（感谢 @Axelpop ）
+- DW1820A CN-08PKF4 CN-0VW3T3 CN-00JT494（感谢 @Axelpop ）
 ```
 
 ## BIOS (1.37)
